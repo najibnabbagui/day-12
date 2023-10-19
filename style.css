@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    color:  #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right , #0040ff ,#cc0000 );
+}
+input{
+    width: 120px;
+    height: 40px;
+}
